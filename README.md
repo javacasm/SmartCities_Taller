@@ -33,3 +33,18 @@ Vemos la placa
   * 7 Controlando remotamente
     * Conexión Rele
     * Servidor Web
+## Eficiencia Energética
+* Control remoto de encendido
+* Medida de consumo [Referencia](https://www.luisllamas.es/arduino-intensidad-consumo-electrico-acs712/)
+
+## Domótica
+1 Control remoto
+
+
+## Estación Meteorológica
+1 Datos Meteo
+2 Publicación de Datos
+3 Publicación en ThinkSpeak
+
+
+## Huerto/sistema de riego
