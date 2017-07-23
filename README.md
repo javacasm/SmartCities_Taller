@@ -14,21 +14,21 @@ Vemos la placa
 1. Ejemplos
   * 1 Hello Led
     * Pines de Arduino
-    Polaridad LED
-    Necesidad de resistencia
+    * Polaridad LED
+    * Necesidad de resistencia
   * 2 Conexión PC
   * 3 LCD
-    Pines Shield
-    I2C
+    * Pines Shield
+    * I2C
   * 4 Sensor atmosférico: BME280
-    Sensores
+    * Sensores
   * 5 Wifi
-    Sensor BME280
-    Configuración Wifi
-    Servidor Web
+    * Sensor BME280
+    * Configuración Wifi
+    * Servidor Web
   * 6 Publicando datos en internet
-    Sensor BME280
-    Configuración ThingSpeak
+    * Sensor BME280
+    * Configuración ThingSpeak
   * 7 Controlando remotamente
-    Conexión Rele
-    Servidor Web
+    * Conexión Rele
+    * Servidor Web
