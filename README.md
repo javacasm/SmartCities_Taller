@@ -2,6 +2,7 @@
 
 ## Introducción (30m)
 1. ¿Qué es una Smart City?
+[Ejemplo](https://programarfacil.com/podcast/medir-consumo-electrico-arduino)
 1. Presentación de los talleres
 1. ¿Qué proyectos vamos a hacer?
 Breve descripción
