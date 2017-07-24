@@ -1,7 +1,11 @@
 # SmartCities_Taller
 
+
+
 ## Introducción (30m)
 1. ¿Qué es una Smart City?
+Smart de inteligente, de mejorar  las cosas pensando
+Cities de ciudadanía, de gente, de colectivos, de hacer las cosas mejor al compartir datos, información y conocimiento
 [Ejemplo](https://programarfacil.com/podcast/medir-consumo-electrico-arduino)
 1. Presentación de los talleres
 1. ¿Qué proyectos vamos a hacer?
@@ -10,7 +14,13 @@ Breve descripción
 Hablamos de la plataforma
 Vemos la placa
 
+
+
 ## Primeras pruebas (90m)
+1. Cuidados previos
+  * NUNCA MANIPULAR LA ELECTRÓNICA SI ESTÁ ENCENDIDA
+  * PRIMERO APAGAR
+  * REVISAR 2 VECES ANTES DE CONECTAR LA ALIMENTACIÓN
 1. Entorno de Arduino
 1. Ejemplos
   * 1 Hello Led
