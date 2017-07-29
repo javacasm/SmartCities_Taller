@@ -12,7 +12,7 @@ Cities de ciudadanía, de gente, de colectivos, de hacer las cosas mejor al comp
 Breve descripción
 1. ¿Qué es Arduino?
 Hablamos de la plataforma
-Vemos la placa
+Vemos la placa [Documentación](http://www.arduino.org/learning/getting-started/getting-started-with-arduino-uno-wifi  )
 
 
 
@@ -22,6 +22,7 @@ Vemos la placa
   * PRIMERO APAGAR
   * REVISAR 2 VECES ANTES DE CONECTAR LA ALIMENTACIÓN
 1. Entorno de Arduino
+
 1. Ejemplos
   * 1 Hello Led
     * Pines de Arduino
