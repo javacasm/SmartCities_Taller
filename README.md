@@ -23,7 +23,7 @@ Vemos la placa [Documentación](http://www.arduino.org/learning/getting-started/
   * REVISAR 2 VECES ANTES DE CONECTAR LA ALIMENTACIÓN
 1. Entorno de Arduino
 
-1. Ejemplos
+1. [Ejemplos](https://github.com/javacasm/SmartCities_Comunes/blob/master/Ejemplos.md)
   * 1 Hello Led
     * Pines de Arduino
     * Polaridad LED
