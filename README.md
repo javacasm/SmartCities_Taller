@@ -17,11 +17,11 @@ Vemos la placa [Documentación](http://www.arduino.org/learning/getting-started/
 
 
 
-## Introducción
+## Consejos de montaje
 1. Cuidados previos
-  * NUNCA MANIPULAR LA ELECTRÓNICA SI ESTÁ ENCENDIDA
-  * PRIMERO APAGAR
-  * REVISAR 2 VECES ANTES DE CONECTAR LA ALIMENTACIÓN
+    * NUNCA MANIPULAR LA ELECTRÓNICA SI ESTÁ ENCENDIDA
+    * PRIMERO APAGAR
+    * REVISAR 2 VECES ANTES DE CONECTAR LA ALIMENTACIÓN
 1. Entorno de Arduino
 
 ## [Proyecto: domótica en  SmartCities](https://github.com/javacasm/SmartCities_Domotica)
