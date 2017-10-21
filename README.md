@@ -27,27 +27,27 @@ Vemos la placa [Documentación](http://www.arduino.org/learning/getting-started/
 ## [Proyecto: domótica en  SmartCities](https://github.com/javacasm/SmartCities_Domotica)
 
 1. Hello Led y Conexión PC
-  * Pines de Arduino
-  * Polaridad LED
-  * Necesidad de resistencia
+    * Pines de Arduino
+    * Polaridad LED
+    * Necesidad de resistencia
 1. LCD
-  * Pines Shield
-  * I2C
+    * Pines Shield
+    * I2C
 1. Presentación de otros sensores: humedad, temperatura, etc
 1. Sensor atmosférico: BME280
-  * Datos del sensor
+    * Datos del sensor
 1. Relés de riego
-  * Explicación sobre los reles
+    * Explicación sobre los relés
 1. Conexión de Bomba
 1. Wifi
-  * Configuración Wifi
-  * Servidor Web
-  * Control remoto
+    * Configuración Wifi
+    * Servidor Web
+    * Control remoto
 1. Relés para simulacion de Aire acondicionado/Calefacción
-  * Configuración de temperatura
+    * Configuración de temperatura
 1. Iluminación automática
-  * Medida de luminosidad
-  * Conexión de iluminación (simulación con un led)
+    * Medida de luminosidad
+    * Conexión de iluminación (simulación con un led)
 
 
 ## Otros proyectos
