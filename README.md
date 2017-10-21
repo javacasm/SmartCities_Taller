@@ -1,8 +1,9 @@
 # SmartCities_Taller
 
+## https://goo.gl/BRRyrn
 
 
-## Introducción (30m)
+## Introducción (20m)
 1. ¿Qué es una Smart City?
 Smart de inteligente, de mejorar  las cosas pensando
 Cities de ciudadanía, de gente, de colectivos, de hacer las cosas mejor al compartir datos, información y conocimiento
@@ -12,7 +13,7 @@ Cities de ciudadanía, de gente, de colectivos, de hacer las cosas mejor al comp
 Breve descripción
 1. ¿Qué es Arduino?
 Hablamos de la plataforma
-Vemos la placa [Documentación](http://www.arduino.org/learning/getting-started/getting-started-with-arduino-uno-wifi  )
+Vemos la placa [Documentación](http://www.arduino.org/learning/getting-started/getting-started-with-arduino-uno-wifi)
 
 
 
@@ -23,49 +24,45 @@ Vemos la placa [Documentación](http://www.arduino.org/learning/getting-started/
   * REVISAR 2 VECES ANTES DE CONECTAR LA ALIMENTACIÓN
 1. Entorno de Arduino
 
-1. [Ejemplos](https://github.com/javacasm/SmartCities_Comunes/blob/master/Ejemplos.md)
-  * 1 Hello Led
+1. [Proyecto de domótica](https://github.com/javacasm/SmartCities_Domotica)
+  * 1 Hello Led y Conexión PC
     * Pines de Arduino
     * Polaridad LED
     * Necesidad de resistencia
-  * 2 Conexión PC
-  * 3 LCD
+  * 2 LCD
     * Pines Shield
     * I2C
+  * Presentación de otros sensores: humedad, temperatura, etc
   * 4 Sensor atmosférico: BME280
-    * Sensores
-  * 5 Wifi
-    * Sensor BME280
+    * Datos del sensor
+  * 5 Relés de riego
+    * Explicación sobre los reles
+  * 6 Conexión de Bomba
+  * 7 Wifi
     * Configuración Wifi
     * Servidor Web
-  * 6 Publicando datos en internet
-    * Sensor BME280
-    * Configuración ThingSpeak
-  * 7 Controlando remotamente
-    * Conexión Rele
-    * Servidor Web
+    * Control remoto
+  * 8 Relés para simulacion de Aire acondicionado/Calefacción
+    * Configuración de temperatura
+  * 9 Iluminación automática
+    * Medida de luminosidad
+    * Conexión de iluminación (simulación con un led)
 
-Comparando temperaturas
 
-## Eficiencia Energética
-* Control remoto de encendido
-* Medida de consumo [Referencia](https://www.luisllamas.es/arduino-intensidad-consumo-electrico-acs712/)
+## Otros proyectos
 
-## Domótica
-1 Control remoto
-Control Ventilacion
-Control Iluminación
+## [Eficiencia Energética](https://github.com/javacasm/SmartCities_Eficiencia)
+1 Control remoto de encendido
+1 Medida de consumo [Referencia](https://www.luisllamas.es/arduino-intensidad-consumo-electrico-acs712/)
 
-TODO:
-Alarma
 
-## Estación Meteorológica
+## [Estación Meteorológica](https://github.com/javacasm/SmartCities_Meteo)
 1 Datos Meteo
-2 Publicación de Datos
-3 Publicación en ThinkSpeak
+1 Publicación de Datos
+1 Publicación en ThinkSpeak
 
-TODO:
-Gases
-Sensor de partículas
-
-## Huerto/sistema de riego
+## [Huerto/sistema de riego](https://github.com/javacasm/SmartCities_Huerto)
+1 Medida de humedad
+1 Detección de lluvia
+1 Activación local de riego
+1 Activación remota del riego
