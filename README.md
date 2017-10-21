@@ -17,52 +17,53 @@ Vemos la placa [Documentación](http://www.arduino.org/learning/getting-started/
 
 
 
-## Primeras pruebas (90m)
+## Introducción
 1. Cuidados previos
   * NUNCA MANIPULAR LA ELECTRÓNICA SI ESTÁ ENCENDIDA
   * PRIMERO APAGAR
   * REVISAR 2 VECES ANTES DE CONECTAR LA ALIMENTACIÓN
 1. Entorno de Arduino
 
-1. [Proyecto de domótica](https://github.com/javacasm/SmartCities_Domotica)
-  * 1 Hello Led y Conexión PC
-    * Pines de Arduino
-    * Polaridad LED
-    * Necesidad de resistencia
-  * 2 LCD
-    * Pines Shield
-    * I2C
-  * Presentación de otros sensores: humedad, temperatura, etc
-  * 4 Sensor atmosférico: BME280
-    * Datos del sensor
-  * 5 Relés de riego
-    * Explicación sobre los reles
-  * 6 Conexión de Bomba
-  * 7 Wifi
-    * Configuración Wifi
-    * Servidor Web
-    * Control remoto
-  * 8 Relés para simulacion de Aire acondicionado/Calefacción
-    * Configuración de temperatura
-  * 9 Iluminación automática
-    * Medida de luminosidad
-    * Conexión de iluminación (simulación con un led)
+## [Proyecto: domótica en  SmartCities](https://github.com/javacasm/SmartCities_Domotica)
+
+1. Hello Led y Conexión PC
+  * Pines de Arduino
+  * Polaridad LED
+  * Necesidad de resistencia
+1. LCD
+  * Pines Shield
+  * I2C
+1. Presentación de otros sensores: humedad, temperatura, etc
+1. Sensor atmosférico: BME280
+  * Datos del sensor
+1. Relés de riego
+  * Explicación sobre los reles
+1. Conexión de Bomba
+1. Wifi
+  * Configuración Wifi
+  * Servidor Web
+  * Control remoto
+1. Relés para simulacion de Aire acondicionado/Calefacción
+  * Configuración de temperatura
+1. Iluminación automática
+  * Medida de luminosidad
+  * Conexión de iluminación (simulación con un led)
 
 
 ## Otros proyectos
 
-## [Eficiencia Energética](https://github.com/javacasm/SmartCities_Eficiencia)
-1 Control remoto de encendido
-1 Medida de consumo [Referencia](https://www.luisllamas.es/arduino-intensidad-consumo-electrico-acs712/)
+### [Eficiencia Energética](https://github.com/javacasm/SmartCities_Eficiencia)
+1. Control remoto de encendido
+1. Medida de consumo [Referencia](https://www.luisllamas.es/arduino-intensidad-consumo-electrico-acs712/)
 
 
-## [Estación Meteorológica](https://github.com/javacasm/SmartCities_Meteo)
-1 Datos Meteo
-1 Publicación de Datos
-1 Publicación en ThinkSpeak
+### [Estación Meteorológica](https://github.com/javacasm/SmartCities_Meteo)
+1. Datos Meteo
+1. Publicación de Datos
+1. Publicación en ThinkSpeak
 
-## [Huerto/sistema de riego](https://github.com/javacasm/SmartCities_Huerto)
-1 Medida de humedad
-1 Detección de lluvia
-1 Activación local de riego
-1 Activación remota del riego
+### [Huerto/sistema de riego](https://github.com/javacasm/SmartCities_Huerto)
+1. Medida de humedad
+1. Detección de lluvia
+1. Activación local de riego
+1. Activación remota del riego
