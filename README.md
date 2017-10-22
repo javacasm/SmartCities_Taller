@@ -24,7 +24,7 @@ Vemos la placa [Documentación](http://www.arduino.org/learning/getting-started/
     * REVISAR 2 VECES ANTES DE CONECTAR LA ALIMENTACIÓN
 1. Entorno de Arduino
 
-## [Proyecto: domótica en  SmartCities](https://github.com/javacasm/SmartCities_Domotica)
+## [Proyecto: Domótica en  SmartCities](https://github.com/javacasm/SmartCities_Domotica)
 
 1. Hello Led y Conexión PC
     * Pines de Arduino
@@ -36,19 +36,21 @@ Vemos la placa [Documentación](http://www.arduino.org/learning/getting-started/
 1. Presentación de otros sensores: humedad, temperatura, etc
 1. Sensor atmosférico: BME280
     * Datos del sensor
-1. Relés de riego
-    * Explicación sobre los relés
-1. Conexión de Bomba
 1. Wifi
     * Configuración Wifi
     * Servidor Web
     * Control remoto
-1. Relés para simulacion de Aire acondicionado/Calefacción
-    * Configuración de temperatura
+1. Sensor de humedad
+    * Funcionamiento
+1. Relés de riego
+    * Explicación sobre los relés
+1. Conexión de bomba de riego
+    * Alimentación
 1. Iluminación automática
     * Medida de luminosidad
     * Conexión de iluminación (simulación con un led)
-
+1. Relés para simulacion de Aire acondicionado/Calefacción
+    * Configuración de temperatura
 
 ## Otros proyectos
 
