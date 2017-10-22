@@ -49,8 +49,7 @@ Vemos la placa [Documentación](http://www.arduino.org/learning/getting-started/
 1. Iluminación automática
     * Medida de luminosidad
     * Conexión de iluminación (simulación con un led)
-1. Relés para simulacion de Aire acondicionado/Calefacción
-    * Configuración de temperatura
+
 
 ## Otros proyectos
 
