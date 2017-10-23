@@ -70,3 +70,6 @@ Vemos la placa [Documentación](http://www.arduino.org/learning/getting-started/
 1. Activación remota del riego
 
 ## Puesta en común de la experiencia (20 minutos)
+
+1. Comentamos la experiencias
+1. Posibles mejoras
