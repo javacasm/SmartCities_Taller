@@ -24,7 +24,7 @@ Vemos la placa [Documentación](http://www.arduino.org/learning/getting-started/
     * REVISAR 2 VECES ANTES DE CONECTAR LA ALIMENTACIÓN
 1. Entorno de Arduino
 
-## [Proyecto: Domótica en  SmartCities](https://github.com/javacasm/SmartCities_Domotica)
+## [Proyecto: Domótica en  SmartCities 2,5H](https://github.com/javacasm/SmartCities_Domotica)
 
 1. Hello Led y Conexión PC
     * Pines de Arduino
@@ -68,3 +68,5 @@ Vemos la placa [Documentación](http://www.arduino.org/learning/getting-started/
 1. Detección de lluvia
 1. Activación local de riego
 1. Activación remota del riego
+
+## Puesta en común de la experiencia (20 minutos)
