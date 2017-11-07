@@ -1,4 +1,4 @@
-# SmartCities_Taller
+# Taller Práctico de SmartCities
 
 ## https://goo.gl/BRRyrn
 
