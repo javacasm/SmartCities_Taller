@@ -73,3 +73,5 @@ Vemos la placa [Documentación](http://www.arduino.org/learning/getting-started/
 
 1. Comentamos la experiencias
 1. Posibles mejoras
+
+## [Contenido Kit](https://github.com/javacasm/SmartCities_Comunes/blob/master/Kit.md)
