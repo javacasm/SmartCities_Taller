@@ -1,4 +1,18 @@
-# Taller Práctico de SmartCities
+# Taller Práctico de Tecnología en las SmartCities
+
+## [Red Guadalinfo](http://www.guadalinfo.es/)
+
+### [Consorcio Fernando de los ríos](http://www.consorciofernandodelosrios.es/)
+
+
+#### José Antonio Vacas Martínez
+
+#### @javacasm
+
+![Licencia CC](./images/Licencia_CC.png)
+
+
+*****
 
 ## https://goo.gl/BRRyrn
 
